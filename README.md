@@ -34,6 +34,11 @@
    For Beginners, I recommend them to go through these websites 
    - [Github](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
    - [w3schools](https://www.w3schools.com/html/default.asp)
+   - [Markdown](https://www.markdownguide.org)
+   
+## Contributers
+   I am Kamal Reddy, studying  Master's of Applied Computer Science at Northwest Missouri State University
+   
   
    
    
