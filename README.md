@@ -17,5 +17,18 @@
    2. Browsers
    - [Google](https://www.google.com)
    - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+   ### Languages
+   - JavaScript
+   - Python
+   - Java
+   - Ruby
+   - PHP
+   - C++
+   - CSS
+   - C#
+   
+   - [Reference](ttps://octoverse.github.com/2017/)
+   
+   
    
    
