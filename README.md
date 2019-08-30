@@ -10,6 +10,7 @@
    
 ## Recommended Tools
    To publish a Github repo we require some tools(Editors and Browsers) and languages such as
+   ### Tools
    1. Editors
    - [notepad++](https://notepad-plus-plus.org)
    - [Visual Studio](https://visualstudio.microsoft.com/vs/)
@@ -28,6 +29,12 @@
    - C#
    
   Reference :[https://octoverse.github.com/2017/](https://octoverse.github.com/2017/)
+  
+## Recommended Resources 
+   For Beginners, I recommend them to go through these websites 
+   - [Github](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+   - [w3schools](https://www.w3schools.com/html/default.asp)
+  
    
    
    
