@@ -39,7 +39,7 @@
 ## Contributers
    I am Kamal Reddy, studying  Master's of Applied Computer Science at Northwest Missouri State University
    
-  
+   ![Pic](https://github.com/Kamal4195/about-me/blob/master/kamal.jpg)
    
    
    
