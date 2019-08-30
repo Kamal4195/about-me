@@ -6,5 +6,16 @@
 
 
 ## About
-   This repo explains about the published site, recommended tools and resourses used in Github
+   This repo explains about the published site, recommended tools and resourses used in Github.
+   
+## Recommended Tools
+   To publish a Github repo we require some tools(Editors and Browsers) and languages such as
+   1. Editors
+   - [notepad++](https://notepad-plus-plus.org)
+   - [Visual Studio](https://visualstudio.microsoft.com/vs/)
+   - [Eclipse](https://www.eclipse.org/downloads/)
+   2. Browsers
+   - [Google](https://www.google.com)
+   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+   
    
