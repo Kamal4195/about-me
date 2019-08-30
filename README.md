@@ -10,7 +10,7 @@
    
 ## Recommended Tools
    To publish a Github repo we require some tools(Editors and Browsers) and languages such as
-   ### Tools
+### Tools
    1. Editors
    - [notepad++](https://notepad-plus-plus.org)
    - [Visual Studio](https://visualstudio.microsoft.com/vs/)
@@ -18,7 +18,7 @@
    2. Browsers
    - [Google](https://www.google.com)
    - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-   ### Languages
+### Languages
    - JavaScript
    - Python
    - Java
